@@ -47,6 +47,6 @@ public class DreamStone {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        // 可以在这里添加其他创意标签页的内容
+
     }
 }
